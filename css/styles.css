@@ -71,3 +71,14 @@ h6 {
 img {
     padding: 0.5%;
 }
+.contact {
+    padding-top: 3%;
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    height: 70vh;
+}
+.h8 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
