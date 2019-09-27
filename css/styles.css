@@ -49,12 +49,25 @@ h5 {
     font-weight: bold;
     padding-top: 5%;
 }
-.WhatWeDo {
-    
-}
+
 h6 {
     font-weight: bold;
     text-align: center;
     padding: 3%;
     font-size: 25px;
+}
+.WhatWeDo {
+    text-align: center;
+}
+.h7 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 5%;
+}
+.portfolio {
+    text-align: center;
+}
+img {
+    padding: 0.5%;
 }
