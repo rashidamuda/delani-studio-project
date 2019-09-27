@@ -81,4 +81,8 @@ img {
     text-align: center;
     font-weight: bold;
     font-size: 25px;
+    padding-bottom: 2%;
+}
+form {
+    text-align: center;
 }
