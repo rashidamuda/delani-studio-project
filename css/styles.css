@@ -86,3 +86,8 @@ img {
 form {
     text-align: center;
 }
+.social-icons {
+    text-align: center;
+    font-size: 15px;
+    padding: 0.5%;
+}
