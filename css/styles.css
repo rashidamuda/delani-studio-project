@@ -9,85 +9,106 @@
   padding: 10%;
 }
 h1 {
-    color: white;
-    text-align: center;
-    font-size: 45px;
+  color: white;
+  text-align: center;
+  font-size: 45px;
 }
-h2{
-    color:white;
-    font-size: 45px;
+h2 {
+  color: white;
+  font-size: 45px;
 }
-.confuse{
-    padding:5%;
+.confuse {
+  padding: 5%;
 }
 h3 {
-    color: white;
-    text-align: center;
-    font-size: small;
-    display: inline;
+  color: white;
+  text-align: center;
+  font-size: small;
+  display: inline;
 }
 .mouse {
-    padding: 30%;
+  padding: 30%;
 }
 h4 {
-    text-align: center;
-    font-weight: bold;
-    padding-top: 5%;
-    font-size: 25px;
-
+  text-align: center;
+  font-weight: bold;
+  padding-top: 5%;
+  font-size: 25px;
 }
-P {
-    text-align: center;
+p {
+  text-align: center;
 }
 .services {
-    background-image: url("../assets/backgrounds/s_image.jpg");
-    height: 45vh;
-    color: white;
-    text-align: center;
+  background-image: url("../assets/backgrounds/s_image.jpg");
+  height: 45vh;
+  color: white;
+  text-align: center;
 }
 h5 {
-    font-weight: bold;
-    padding-top: 5%;
+  font-weight: bold;
+  padding-top: 5%;
 }
 
 h6 {
-    font-weight: bold;
-    text-align: center;
-    padding: 3%;
-    font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding: 3%;
+  font-size: 25px;
 }
 .WhatWeDo {
-    text-align: center;
+  text-align: center;
 }
 .h7 {
-    font-weight: bold;
-    text-align: center;
-    font-size: 25px;
-    padding-top: 5%;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 5%;
 }
 .portfolio {
-    text-align: center;
+  text-align: center;
 }
 img {
-    padding: 0.5%;
+  padding: 0.5%;
 }
 .contact {
-    padding-top: 3%;
-    background-image: url("../assets/backgrounds/c_image.jpg");
-    height: 70vh;
+  padding-top: 3%;
+  background-image: url("../assets/backgrounds/c_image.jpg");
+  height: 70vh;
 }
 .h8 {
-    color: white;
-    text-align: center;
-    font-weight: bold;
-    font-size: 25px;
-    padding-bottom: 2%;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  padding-bottom: 2%;
 }
 form {
-    text-align: center;
+  text-align: center;
 }
 .social-icons {
-    text-align: center;
-    font-size: 15px;
-    padding: 0.5%;
+  text-align: center;
+  font-size: 15px;
+  padding: 0.5%;
+}
+.outro {
+  text-align: center;
+  font-size: x-small;
+}
+input {
+  width: 35%;
+  border: 1px solid white;
+  opacity: 0.2;
+  box-shadow: 1px 1px 3px white;
+  color: white;
+}
+textarea {
+  margin-top: 20px;
+  width: 65%;
+  height: 150px;
+  opacity: 0.2;
+  border: 1px solid white;
+}
+::placeholder {
+  color:white;
+  text-shadow: 2px 2px 10px gray ;
 }
