@@ -11,5 +11,10 @@ $(".show3").click(function() {
     $("#hide3").toggle();
     $(".img-hidden3").toggle();
 });
-
+$(".img4").hover(function() {
+    $(".overlay4").show();
+    $(".img4").mouseleave(function() {
+        $(".overlay4").hide();
+    })
+})
 });
