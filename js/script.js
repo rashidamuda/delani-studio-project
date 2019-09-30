@@ -61,5 +61,8 @@ $(document).ready(function() {
       $(".overlay8").hide();
     });
   });
-  
+  $("form").submit (function(event) {
+      var name=$("#name").val();
+      alert("Thankyou" + name + "for getting back to us!");
+  });
 });
