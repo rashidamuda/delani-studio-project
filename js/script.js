@@ -15,6 +15,20 @@ $(".img4").hover(function() {
     $(".overlay4").show();
     $(".img4").mouseleave(function() {
         $(".overlay4").hide();
-    })
-})
+    });
+$(".img1").hover(function() {
+        $(".overlay1").show();
+        $(".img1").mouseleave(function() {
+            $(".overlay1").hide();
+});
+$(".img2").hover(function() {
+    $(".overlay2").show();
+    $(".img2").mouseleave(function() {
+        $(".overlay2").hide();
+    });
+$(".img2").hover(function() {
+        $(".overlay2").show();
+        $(".img2").mouseleave(function() {
+            $(".overlay2").hide();
+        });
 });
