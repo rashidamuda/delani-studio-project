@@ -55,4 +55,10 @@ $(document).ready(function() {
       $(".overlay7").hide();
     });
   });
+  $(".img8").hover(function() {
+    $(".overlay8").show();
+    $(".img8").mouseleave(function() {
+      $(".overlay8").hide();
+    });
+  });
 });
