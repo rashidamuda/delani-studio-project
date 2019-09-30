@@ -11,4 +11,5 @@ $(".show3").click(function() {
     $("#hide3").toggle();
     $(".img-hidden3").toggle();
 });
+
 });
